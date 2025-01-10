@@ -55,10 +55,6 @@ body {
 	color: hsl(212, 23%, 69%);
 	line-height: 20px;
 }
-.share-div {
-	display: flex;
-	flex-direction: column;
-}
 .share-popup-row {
 	display: flex;
 	gap: 15px;
