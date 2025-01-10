@@ -55,6 +55,25 @@ body {
 	color: hsl(212, 23%, 69%);
 	line-height: 20px;
 }
+.share-div {
+	display: flex;
+	flex-direction: column;
+}
+.share-popup-row {
+	display: flex;
+	gap: 15px;
+	padding: 15px 25px;
+	width: fit-content;
+	background-color: hsl(217, 19%, 35%);
+	border-radius: 10px;
+}
+.share-text {
+	color: hsl(212, 23%, 69%);
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+/* .socials-logo {
+} */
 .user-row {
 	display: flex;
 	align-items: center;
